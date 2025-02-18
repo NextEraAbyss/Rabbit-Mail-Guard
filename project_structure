@@ -1,0 +1,18 @@
+project-root/
+├── cmd/
+│   └── main.go
+├── config/
+│   └── config.go
+├── internal/
+│   ├── consumer/
+│   │   └── email_consumer.go
+│   ├── email/
+│   │   └── service.go
+│   └── redis/
+│       └── client.go
+├── pkg/
+│   └── utils/
+│       └── validator.go
+├── .env
+├── go.mod
+└── README.md 
